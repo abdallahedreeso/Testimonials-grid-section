@@ -1,0 +1,32 @@
+body {
+  font-family: "Barlow Semi Condensed", sans-serif;
+  background-color: #ecf2f8;
+}
+
+.accent-border {
+  border: 2px solid #a775f1;
+}
+
+.bg-primary-custom {
+  background-color: #733fc8;
+}
+
+.bg-secondary-custom {
+  background-color: #48556a;
+}
+
+.bg-tertiary-custom {
+  background-color: #19202d;
+}
+
+.text-white {
+  color: #fff;
+}
+
+.text-secondary-custom {
+  color: #48556a;
+}
+
+.last-card {
+  padding: 42px;
+}
