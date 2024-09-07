@@ -26,8 +26,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: (https://github.com/abdallahedreeso/3-column-preview-card-component)
-- Live Site URL: (https://3-column-preview-card-component-pearl-pi.vercel.app/)
+- Solution URL: (https://github.com/abdallahedreeso/Testimonials-grid-section)
+- Live Site URL: (https://testimonials-grid-section-kappa-six.vercel.app/)
 
 ## My process
 
